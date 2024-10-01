@@ -13,7 +13,7 @@ public class StarDrawingForm : Form
     private bool isDrawing = false;
     private Point startPoint;
     private Star currentStar;
-
+     
     public StarDrawingForm()
     {
         this.Text = "Star Drawing Application";
